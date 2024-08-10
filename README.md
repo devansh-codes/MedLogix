@@ -14,8 +14,8 @@
 
 ## **🔧 Technologies Used**
 - **Backend**: Python, Flask, SQLAlchemy
-- **Database**: SQLite (can be easily switched to other databases)
-- **Frontend**: HTML, CSS, Bootstrap (optional for UI styling)
+- **Database**: SQLite 
+- **Frontend**: HTML, CSS, Bootstrap 
 - **Version Control**: Git
 
 ## **🚀 Getting Started**
