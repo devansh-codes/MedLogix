@@ -1,0 +1,12 @@
+{
+  "params": {
+    "local_uri": "sqlite:///medical.db",
+    "proud_uri": "mysql://user:password@host/medical",
+    "user": "admin",
+    "password": "admin",
+    "login_image": "aple.jpg", 
+    "headname": "MEDICAL SUPPLY MANAGEMENT"
+  }
+}
+
+
